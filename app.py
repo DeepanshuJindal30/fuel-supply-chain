@@ -135,4 +135,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    st.markdown("<br><hr><p style='text-align: center;'>Made with ♥ by Anshika Jadon</p>", unsafe_allow_html=True)
 
